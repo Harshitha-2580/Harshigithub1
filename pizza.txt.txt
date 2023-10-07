@@ -1,0 +1,7 @@
+dough,
+onion,
+panneer,
+cheese,
+chicken,
+tomato sauce
+
